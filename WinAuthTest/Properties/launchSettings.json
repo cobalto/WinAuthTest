@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinAuthTest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+    }
+  }
+}
